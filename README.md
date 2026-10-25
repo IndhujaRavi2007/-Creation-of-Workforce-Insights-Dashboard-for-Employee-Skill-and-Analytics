@@ -12,6 +12,9 @@ Production-grade, database-driven, secure monolithic workforce management platfo
 * 📖 **Interactive Swagger API Docs:** [https://ai-powered-workforce-management.onrender.com/docs](https://ai-powered-workforce-management.onrender.com/docs)
 * 🩺 **Backend Health Check:** [https://ai-powered-workforce-management.onrender.com/health](https://ai-powered-workforce-management.onrender.com/health)
 
+###Demo Video - Screen Recording with voiceover
+**Watch Demo: **https://app.supademo.com/video/cmvnx27r80v0vqmut8tnwomyb
+
 ### 🔑 Demo Login Credentials
 
 | Role | Email | Password | Access Scope |
